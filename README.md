@@ -2,7 +2,7 @@ leaflet_markers
 =====================
 
 color variations of the standard leaflet markers:
-
+#test comment
 | Color | Marker 2x  | Marker  | Color Inside | Color Outside |
 | ------------- |:-------------:|:-----:|:-----:|:-----:|
 | Blue | ![Marker Blue 2x](https://raw.githubusercontent.com/badbrad2889/leaflet_markers/master/img/marker-icon-2x-blue.png) | ![Marker Blue](https://raw.githubusercontent.com/badbrad2889/leaflet_markers/master/img/marker-icon-blue.png) | #2A81CB | #3274A3 |
