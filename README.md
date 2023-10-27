@@ -6,6 +6,7 @@ color variations of the standard leaflet markers:
 | Color | Marker 2x  | Marker  | Color Inside | Color Outside |
 | ------------- |:-------------:|:-----:|:-----:|:-----:|
 | Blue | ![Marker Blue 2x](https://raw.githubusercontent.com/badbrad2889/leaflet_markers/master/img/marker-icon-2x-blue.png) | ![Marker Blue](https://raw.githubusercontent.com/badbrad2889/leaflet_markers/master/img/marker-icon-blue.png) | #2A81CB | #3274A3 |
+| Blue | ![Marker Blurple 2x](https://raw.githubusercontent.com/badbrad2889/leaflet_markers/master/img/marker-icon-2x-blurple.png) | ![Marker blurple](https://raw.githubusercontent.com/badbrad2889/leaflet_markers/master/img/marker-icon-blurple.png) | #2A81CB | #3274A3 |
 | Gold | ![Marker Gold 2x](https://raw.githubusercontent.com/badbrad2889/leaflet_markers/master/img/marker-icon-2x-gold.png) | ![Marker Gold](https://raw.githubusercontent.com/badbrad2889/leaflet_markers/master/img/marker-icon-gold.png) | #FFD326 | #C1A32D |
 | Red | ![Marker Red 2x](https://raw.githubusercontent.com/badbrad2889/leaflet_markers/master/img/marker-icon-2x-red.png) | ![Marker Red](https://raw.githubusercontent.com/badbrad2889/leaflet_markers/master/img/marker-icon-red.png) | #CB2B3E | #982E40 |
 | Green | ![Marker Green 2x](https://raw.githubusercontent.com/badbrad2889/leaflet_markers/master/img/marker-icon-2x-green.png) | ![Marker Green](https://raw.githubusercontent.com/badbrad2889/leaflet_markers/master/img/marker-icon-green.png) | #2AAD27 | #31882A |
